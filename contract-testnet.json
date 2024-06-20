@@ -1,0 +1,43 @@
+{
+    "5611": {
+        "CryptoRumble": {
+            "address": "0x76d65b6E6D2534717f3f01E9194A0b40Ee36beb8"
+        },
+        "Equipment": {
+            "address": "0x73d0a0cef5e0d79Bb43e3ac65c14A39D83f48bD2"
+        },
+        "EquipmentEdition1": {
+            "address": "0x2Fe3a897c127ff14725092FaA04e4EE983182691"
+        },
+        "Hero": {
+            "address": "0x3e6D2a23B33aB068F0565afF3999e5502d0bD538"
+        },
+        "HeroEdition1": {
+            "address": "0xFc3E6c42B4d0d9909965b4F764c0FeCefcB68fB9"
+        },
+        "Level": {
+            "address": "0x864Eea144A0870Bf73d094CcD9193AF8C3689b79"
+        },
+        "LevelUpHelper": {
+            "address": "0xE1A09BC1C9b7aaFF13bEe20104DADF739518c3e9"
+        },
+        "CREvent": {
+            "address": "0xE1ff14Ffa546d2Bd7b768C87430e95BFe4e31024"
+        },
+        "API": {
+            "address": "0x199A66a4F9812428FB429C5aEe7c97fA93577dA3"
+        },
+        "GP": {
+            "address": "0x6c269B07A2A8182d45Ae43178f60840D82E3A3E1"
+        },
+        "CheckIn": {
+            "address": "0x1e80a10E26c226566CC2F28BBb03c38576aceBE2"
+        },
+        "CRFarm": {
+            "address": "0xbdF70774d5374B6c08398C2C6b9af5CDd097c65A"
+        },
+        "SeasonHelper": {
+            "address": "0xB5e0eC675D3A9f03Baa647bd7BbbC184b9a4eEeb"
+        }
+    }
+}
