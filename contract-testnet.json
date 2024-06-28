@@ -1,43 +1,56 @@
 {
-    "5611": {
+    "59140": {
         "CryptoRumble": {
-            "address": "0x76d65b6E6D2534717f3f01E9194A0b40Ee36beb8"
+            "address": "0x53B30F115202429e5b9CeF71413cd434bc0885cA",
+            "tx": "0xef5b7c0a545f84c226d1f55944c054ff1a9a8fe370335f83bb65830fc2fc4d50",
+            "blockNumber": 4944925
         },
         "Equipment": {
-            "address": "0x73d0a0cef5e0d79Bb43e3ac65c14A39D83f48bD2"
+            "address": "0xef842B6e1270755AbD35a6304812c551029CEa86"
         },
         "EquipmentEdition1": {
-            "address": "0x2Fe3a897c127ff14725092FaA04e4EE983182691"
+            "address": "0x8173Fd598077fbb747e379851A24af983E5DA994"
         },
         "Hero": {
-            "address": "0x3e6D2a23B33aB068F0565afF3999e5502d0bD538"
+            "address": "0xc14AA8622d603c5B9b651F702d8B3DCEBCcEBF2C"
         },
-        "HeroEdition1": {
-            "address": "0xFc3E6c42B4d0d9909965b4F764c0FeCefcB68fB9"
+        "HeroEdition": {
+            "address": "0xC49Cc79d39355F914fBB648932919cb49C6708F0"
         },
         "Level": {
-            "address": "0x864Eea144A0870Bf73d094CcD9193AF8C3689b79"
+            "address": "0x52b502E067E35C00A942bA8d535a092366629ACB"
         },
         "LevelUpHelper": {
-            "address": "0xE1A09BC1C9b7aaFF13bEe20104DADF739518c3e9"
+            "address": "0xaE80F56cf0a5914123905e92afF8C0C334574841"
         },
         "CREvent": {
-            "address": "0xE1ff14Ffa546d2Bd7b768C87430e95BFe4e31024"
+            "address": "0x889Ff7eC93FDfB92Bdf9BacFa9187A4904570df6"
         },
         "API": {
-            "address": "0x199A66a4F9812428FB429C5aEe7c97fA93577dA3"
+            "address": "0x4CDe5fCF611ae1fB53c402e9DeB8847Cc76Ae802"
         },
         "GP": {
-            "address": "0x6c269B07A2A8182d45Ae43178f60840D82E3A3E1"
+            "address": "0x787002E37D18C7a25f360e3087a240F51D4f6a0C"
         },
         "CheckIn": {
-            "address": "0x1e80a10E26c226566CC2F28BBb03c38576aceBE2"
+            "address": "0xd45B8B92AC9Bd1B8B017Aa09Ad2b3395956870Fb"
         },
         "CRFarm": {
-            "address": "0xbdF70774d5374B6c08398C2C6b9af5CDd097c65A"
+            "address": "0x406BfFD7149b68c6aE4baC6D530F9f0e3f2eDa75"
         },
         "SeasonHelper": {
-            "address": "0xB5e0eC675D3A9f03Baa647bd7BbbC184b9a4eEeb"
+            "address": "0x12eF65FaD965a5F5dFa73a12d3e4337886E777e9"
+        },
+        "Multicall3": {
+            "address": "0xd71fB4a432083fE1e78a73e5b8FC014244e8E266"
+        },
+        "Restaking": {
+            "address": "0x9EB1f035C97ff649C1a2039b8e43d6Dd7182ED37"
+        },
+        "Tokens": {
+            "WETH": {
+                "address": "0x5131bc5Ed480a524932D2638922616fE968374FE"
+            }
         }
     }
 }
