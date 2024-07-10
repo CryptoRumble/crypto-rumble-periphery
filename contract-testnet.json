@@ -52,5 +52,62 @@
                 "address": "0x5131bc5Ed480a524932D2638922616fE968374FE"
             }
         }
+    },
+    "5611": {
+        "CryptoRumble": {
+            "address": "0x21C3ae9DC6669f93CBFcdDD69c170Fb10A8d379B",
+            "tx": "0x4c44a99627626c6b91c850087bd98c59923ae95722a944e3f9929ada6d6ce547",
+            "blockNumber": 33631959
+        },
+        "Equipment": {
+            "address": "0x6870B3D4115C6dACF7bB9027F53B7a4E3c537Cc2"
+        },
+        "EquipmentEdition1": {
+            "address": "0xC31163f7cd92B8bc8DD266475575a9564c03f08A"
+        },
+        "Hero": {
+            "address": "0xa564958CFC3BDe3814cA9e282d345BfC6Cdc97CA"
+        },
+        "HeroEdition1": {
+            "address": "0x5fa20C4187522fdc7C17E33875Ffa1b0E860b2be"
+        },
+        "HeroEdition2": {
+            "address": "0x551cec70c8f359daA56b7133d59f68A323A635f6"
+        },
+        "Level": {
+            "address": "0x50DA0935f1349B0d38a65A6F43fDA21bD6EC02C2"
+        },
+        "LevelUpHelper": {
+            "address": "0xe9918eED3D0a959cacED05C2e29D74d23E60867a"
+        },
+        "CREvent": {
+            "address": "0x5eb7bAe373fe85Ff76A49F25eFa4d53E35FEF72E"
+        },
+        "API": {
+            "address": "0xAf139eb8d727C05a61961e0A9fAb7E7c0b8d73e8"
+        },
+        "GP": {
+            "address": "0xc2E571531AB5A353534b73D15c187E78DD57dCA9"
+        },
+        "CheckIn": {
+            "address": "0x119879CFf92bc93fbdFff6dFC5206497eF17FB79"
+        },
+        "CRFarm": {
+            "address": "0x8B7290f7DD4e56de3eABecc7ceBB9289Ce73C20C"
+        },
+        "SeasonHelper": {
+            "address": "0xF9877953c72f76eBd28c6F06c56372fB6F9fF60E"
+        },
+        "Multicall3": {
+            "address": "0x8893691313895321af6870DE62FC0228a5FE6d88"
+        },
+        "Restaking": {
+            "address": "0xa354179c65865b96fDc8f7FD6120D1B922d2f60e"
+        },
+        "Tokens": {
+            "WETH": {
+                "address": "0xb599335c09F367005575769511000F8956f113D6"
+            }
+        }
     }
 }
