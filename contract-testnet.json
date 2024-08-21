@@ -109,5 +109,65 @@
                 "address": "0xb599335c09F367005575769511000F8956f113D6"
             }
         }
+    },
+    "9901": {
+        "CryptoRumble": {
+            "address": "0x92A9c4772AFf9Ae323733f70E29C0eaC6Bdd0F0f",
+            "tx": "0x24c8613cdc11cc24a003a28849241cc9f49f30f78d0b48e2f64e5e720b0d60af",
+            "blockNumber": 650982
+        },
+        "Equipment": {
+            "address": "0x16087f34FFEB141D04762145Fd29a35C6a4A480c"
+        },
+        "EquipmentEdition1": {
+            "address": "0xdaAc0310205464CDf0D7F77C70c7E7d8223137de"
+        },
+        "Hero": {
+            "address": "0xA1ADaBFBaf69324B0F5D01964345ce598521489d"
+        },
+        "HeroEdition1": {
+            "address": "0x6C8b01CBFAFE2F60d24F6a285979862e16dfC268"
+        },
+        "Level": {
+            "address": "0xeAC20bFB06b50F5c70a0c3B467e67ad619E5F1B0"
+        },
+        "LevelUpHelper": {
+            "address": "0x380a678fa7d2Abe01E3609cFFe0EAB24D9D50F9a"
+        },
+        "RewarderHelper": {
+            "address": "0x962A18454EE4340c6D6190883C853A2582ea6456"
+        },
+        "GeneralRewarder": {
+            "address": "0x4DaAE33BfE8F0e32e4cc0fF9457dC3D18c979F1D"
+        },
+        "API": {
+            "address": "0x53e2f37042d5Ee9Adb8991e7146A69e828Ba1021"
+        },
+        "GP": {
+            "address": "0x16A5925eE8D2c5d7206e3f4e2F574301986a0b2c"
+        },
+        "CheckIn": {
+            "address": "0x259a7D9a420384aa25D47bf7c90deB5562987192"
+        },
+        "CRFarm": {
+            "address": "0xbDa44de5168a4f8bD76e13eF9238B08Da69723f5"
+        },
+        "SeasonHelper": {
+            "address": "0x396A786692Bd433E29C195EC1040B2F52F481dA8"
+        },
+        "Multicall3": {
+            "address": "0x291f3Ee5c2bd0a749ed8508ecDf2d1754a32bE73"
+        },
+        "HeroEdition2": {
+            "address": ""
+        },
+        "Restaking": {
+            "address": ""
+        },
+        "Tokens": {
+            "WETH": {
+                "address": ""
+            }
+        }
     }
 }
