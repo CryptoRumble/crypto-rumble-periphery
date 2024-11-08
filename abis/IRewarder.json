@@ -35,7 +35,7 @@
             },
             {
               "internalType": "uint256",
-              "name": "gp",
+              "name": "gold",
               "type": "uint256"
             },
             {
@@ -91,7 +91,7 @@
             },
             {
               "internalType": "uint256",
-              "name": "gp",
+              "name": "gold",
               "type": "uint256"
             },
             {
