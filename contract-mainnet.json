@@ -118,5 +118,77 @@
                 "address": ""
             }
         }
+    },
+    "59144": {
+        "CryptoRumble": {
+            "address": "",
+            "tx": "",
+            "blockNumber": 0
+        },
+        "Equipment": {
+            "address": ""
+        },
+        "EquipmentEdition1": {
+            "address": ""
+        },
+        "Hero": {
+            "address": "0x973e0323d07154b18456F5f4ba73FE6fE0fCB8ca"
+        },
+        "HeroEdition1": {
+            "address": ""
+        },
+        "Level": {
+            "address": ""
+        },
+        "LevelUpHelper": {
+            "address": ""
+        },
+        "API": {
+            "address": ""
+        },
+        "GP": {
+            "address": ""
+        },
+        "CheckIn": {
+            "address": ""
+        },
+        "CRFarm": {
+            "address": ""
+        },
+        "SeasonHelper": {
+            "address": ""
+        },
+        "RewarderHelper": {
+            "address": ""
+        },
+        "GeneralRewarder": {
+            "address": ""
+        },
+        "Multicall3": {
+            "address": ""
+        },
+        "HeroEdition2": {
+            "address": "0xb0D2D285F9beBFA151CF9e6dCaD44FE3C7052D44"
+        },
+        "Restaking": {
+            "address": "0xb78e82CF9457C3Cf6b275E8387038764baDa6F73"
+        },
+        "Tokens": {
+            "WETH": {
+                "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f"
+            },
+            "wstETH": {
+                "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F"
+            },
+            "weETH": {
+                "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6"
+            },
+            "ezETH": {
+                "address": "0x2416092f143378750bb29b79eD961ab195CcEea5"
+            },
+            "STONE": {
+                "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116"
+            }
+        }
     }
 }

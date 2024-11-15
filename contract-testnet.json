@@ -1,54 +1,54 @@
 {
     "5611": {
         "CryptoRumble": {
-            "address": "0xC6B01747cB8dD989a4f9aA5Ab6d8C0f86436C3c8",
-            "tx": "0x161537da5df4173850751685642dff91b2b931dcf8059aeb6d64843a3e79aa2a",
-            "blockNumber": 44171339
+            "address": "0x5C92833910b436359D9f7dA7D569943aE8d8fe0b",
+            "tx": "0xc99bd288de5d49662bb28513a2a5e5d1663794e1e2dbe317de89f4d7b9e9dea8",
+            "blockNumber": 44758281
         },
         "Equipment": {
-            "address": "0x0c6aF24B9abC73BF28D8E1225DCa3286C9a9B58E"
+            "address": "0x339dBB10DD7c6Be437F5974a55D8c6bb97a4Ba46"
         },
         "EquipmentEdition1": {
-            "address": "0x5C6ffc130179C13c5907855D6834825f869A2448"
+            "address": "0xc1D1BbA11d745e3d29338f8C3393FC31aa1674D2"
         },
         "Hero": {
-            "address": "0x96a169d8784749594c6127811B41E3638D51b69d"
+            "address": "0xbAd366dfbD5c37530F48Fa599Ac1C7a92bDb154b"
         },
         "HeroEdition1": {
-            "address": "0x9fb49eB3AFfDf18824ddbdc27B4385ffC4458933"
+            "address": "0x96F6a33A61cC529a765e4Fd43497B0f69C47f99D"
         },
         "Level": {
-            "address": "0x9a40dC8124d33547D28D2698B5EbBB8339Bb500a"
+            "address": "0x6418819a922be97791ECc5eF1751D49afc937A37"
         },
         "LevelUpHelper": {
-            "address": "0x43962e873862c03A25d59a960423601f9b8bEf6b"
+            "address": "0xD79cfF6a512d63855A6cC3676Dc4d6A6E8D89bc6"
         },
         "API": {
-            "address": "0xCDa2125d08Ff02f83a3A0B72c26cCe04D3669ba3"
+            "address": "0xb21cC594902e2BC7fC80D6dde163CC896d6EbC1E"
         },
         "GOLD": {
-            "address": "0xa0A45B2aA3eE4cA8496F537E05c93D043167000D"
+            "address": "0xA941Dcd1FF2E398D1DA1DbCE1ABBf52068B331a7"
         },
         "DIAM": {
-            "address": "0xCcc5E0dd020E7eA76F16a7B4dDB7C89BdDce1907"
+            "address": "0x186fC8367466145aefd55C563019D8BDbfa006BC"
         },
         "CheckIn": {
-            "address": "0x3EC43aE6b17B5AB0C15B06c7c7514c70aD966B47"
+            "address": "0x493720b403dEf3591f0855DF52975FADe557b163"
         },
         "SwapToken": {
-            "address": "0x00765e8e83673cAf67d4e0bbc8626C30d916A12F"
+            "address": "0x170620D620c74c008C4AB0abdf239a776236117E"
         },
         "CRFarm": {
-            "address": "0x0de2a938E9FBDFd1fF0Eda5b7771da352c537a4C"
+            "address": "0x0148Ce9237d36A385b0BBD06a80BF1cdEC5e3c0D"
         },
         "SeasonHelper": {
-            "address": "0xc5A5909aBC2F3BBFe387584accF4564F3270Cd60"
+            "address": "0xF71744a4570b0083ec5f73a8f497d76DDbaAE0A9"
         },
         "RewarderHelper": {
-            "address": "0x73B49660c853C22967DcfFc16Fb3b7366964063C"
+            "address": "0xb6190A8d30d85A240a974e97490D3cD46c5Af43F"
         },
         "GeneralRewarder": {
-            "address": "0x347a3BCbAD0C91215F7E3F79459A44F03aCB1c64"
+            "address": "0xB675Ab52B7B235DDaA0068C8FcBd25745769e2F6"
         },
         "Multicall3": {
             "address": "0x650972F8761EBDaA2145D97a4CBb7194fCFA13Ff"
