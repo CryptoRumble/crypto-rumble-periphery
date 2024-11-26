@@ -26,6 +26,9 @@
         "API": {
             "address": "0x87a4f15b4a75424f5919d17392c1e705219A29a9"
         },
+        "GP": {
+            "address": "0xB9A8d5063601ead4fb27CF0541d7EE0E4FfA4fB7"
+        },
         "GOLD": {
             "address": "0x41Dee54Dd27392BFA95C9758d149A66Fe34d0Be2"
         },
