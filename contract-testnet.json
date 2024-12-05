@@ -1,4 +1,94 @@
 {
+    "59141": {
+        "CryptoRumble": {
+            "address": "0x69e21166C84d156525e257F879aFCD05Eda5ADaf",
+            "tx": "0x106e174099e978e2cc8057b58f26278817c1c35d5e53661a200d858c3ea44a85",
+            "blockNumber": 6729291
+        },
+        "Equipment": {
+            "address": "0x801858dbfb5c0bEA79f52538a4C65F18F530a088"
+        },
+        "EquipmentEdition1": {
+            "address": "0x201d80f912f8F0aCe5bC7E7d4b1875376AfA4dB2"
+        },
+        "Hero": {
+            "address": "0xeDb814369d96010154b116D5Ac3Bf40DD54AF198"
+        },
+        "HeroEdition1": {
+            "address": "0x2Ce2b3d8a3F97275f65f70f99BAdF6C72FC8ddBb"
+        },
+        "HeroPresale": {
+            "address": "0xB247Ca930A041d634F0d958D45D78F7852903eb1"
+        },
+        "HeroTVL": {
+            "address": "0xB256c58Fa8a211Ef75DaE2648839ed09d24eFeFe"
+        },
+        "Level": {
+            "address": "0xDcbAB4AdFf64968809491582E4940d23BD586e4e"
+        },
+        "LevelUpHelper": {
+            "address": "0x20aA99D267d918A7597C71B92185E3784B867381"
+        },
+        "API": {
+            "address": "0xEAAC9121C3532BFC2a49B22204dd08B9e6eFC897"
+        },
+        "GP": {
+            "address": "0x91D416d939baA3Aa822DD1B776fC5e9610b952C2"
+        },
+        "GOLD": {
+            "address": "0x1577507d2D3c82851ee17dA0d24feEBbdF1e4f32"
+        },
+        "DIAM": {
+            "address": "0xd60B1fa853b38d3cCCC389EB885A4A2ae0635ff6"
+        },
+        "POINTS": {
+            "address": "0xBae20bb74538499EBeD454055bbBbe8b69772295"
+        },
+        "CheckIn": {
+            "address": "0x625669a94Dae2e72a1b9B734d98ee83663AC1dee"
+        },
+        "SwapToken": {
+            "address": "0x575Db10B5D53b343869B8C26bCFe16F43DC15357"
+        },
+        "Faucet": {
+            "address": "0x149899E1E76edacA84110A0c861cE8ab02fE5Cc5"
+        },
+        "CRFarm": {
+            "address": "0xAe19bFEe7BeCD5578C6CD1502CcA4f4B03983C02"
+        },
+        "SeasonHelper": {
+            "address": "0x1Bc9b451877F849407ca457ad51464001548E32b"
+        },
+        "RewarderHelper": {
+            "address": "0xC1127CBDB9B10c011EC13216bAd8EEF9d12219ee"
+        },
+        "GeneralRewarder": {
+            "address": "0xb68e16B8D4945A18552908Aaa5f5215B25C5502E"
+        },
+        "Multicall3": {
+            "address": "0x321fEDA31DC64b5BB2EA21964779FEB97a7636f8"
+        },
+        "HeroEdition2": {
+            "address": ""
+        },
+        "Restaking": {
+            "address": "0xa415b3De245d8B616e92A0587954dAF8e8Edb0f5"
+        },
+        "Tokens": {
+            "WETH": {
+                "address": "0xAeb65CCDe3b88CA9095D7Cc1d8ACa82ae865AcA6"
+            },
+            "ezETH": {
+                "address": "0x79A67D40f3e7396FC122268DC0136896cC7D7271"
+            },
+            "wstETH": {
+                "address": "0xd9c4d0Bf3881510d9d7a883c94Bd856c4d314370"
+            },
+            "STONE": {
+                "address": "0xf8b7E9A37857B01Cb9AD74e6fCaD149f44490601"
+            }
+        }
+    },
     "5611": {
         "CryptoRumble": {
             "address": "0xF22E4fd34Ea1de44720916E35033fbc03c268E1E",
