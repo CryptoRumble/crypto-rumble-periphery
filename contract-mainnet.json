@@ -59,12 +59,16 @@
         "SeasonHelper": {
             "address": "0x6428081b95873974A17d19ca6Fd1efc6Ee48eFDb"
         },
-        "RewarderHelper": {
-            "address": "0x617b28BAa6aCf29b5528503Ad07193be9f014b54"
-        },
-        "GeneralRewarder": {
-            "address": "0xcE76B77726c113FECE417582E7ADd9CdFDcf45f3"
-        },
+        "RewarderHelper": [
+            {"pve": "0x617b28BAa6aCf29b5528503Ad07193be9f014b54"},
+            {"boss": "0xE886f4d32F402Be6512c0c29f1513a2ED63A6195"},
+            {"newYearPve": "0x431dC2b95755ED84050C27d5C7F8F479cFb86624"},
+            {"newYearBoss": "0x479c1b022275A381a0e65F4541Ae5E37a7dc2166"}
+        ],
+        "GeneralRewarder": [
+            {"pve":"0xcE76B77726c113FECE417582E7ADd9CdFDcf45f3"},
+            {"boss":"0xF7C454012029e76F9c8469f4E7Ce25C75087DF60"}
+        ],
         "Multicall3": {
             "address": "0xcA11bde05977b3631167028862bE2a173976CA11"
         },
@@ -89,6 +93,101 @@
             },
             "STONE": {
                 "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116"
+            }
+        }
+    },
+    "9901": {
+        "CryptoRumble": {
+            "address": "0x6428081b95873974A17d19ca6Fd1efc6Ee48eFDb",
+            "tx": "0x635bc01089464646858416314b85bb56003fd62af36ee5c2588a19b108c6ac07",
+            "blockNumber": 1552146
+        },
+        "Equipment": {
+            "address": "0xcA09079Cd2589436a5b8C606cf15D33D88cB8181"
+        },
+        "EquipmentEdition1": {
+            "address": "0xa8e9e4750b0a5D74BDA3CF06faacb03cc8792C6B"
+        },
+        "Hero": {
+            "address": "0x73f3a98Bd2B76EdF4b4ff6555850963ea8A6617f"
+        },
+        "HeroEdition1": {
+            "address": "0xcfB89dE90Fb4f336C5ed319Af8c238e96fC3c8a3"
+        },
+        "HeroPresale": {
+            "address": ""
+        },
+        "HeroTVL": {
+            "address": "0x03b9fF7C73Ca631201adA15c96f7E88082faB17F"
+        },
+        "Level": {
+            "address": "0xfBD25eE8519DADe8bE3fde214DEFb316f0ec2331"
+        },
+        "LevelUpHelper": {
+            "address": "0x36B16711c4679ddB561F35409e679209b4A6160d"
+        },
+        "API": {
+            "address": "0x9213239b15173FdE940Dba22C0F8D814BA05E362"
+        },
+        "GP": {
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "GOLD": {
+            "address": "0x501299394F8890742833988662ABcbb6182185E7"
+        },
+        "DIAM": {
+            "address": "0xb954169DE3Ef0aB8cC3BfDfF0BdCDF708E68B456"
+        },
+        "POINTS": {
+            "address": "0x9650786101C6c50C7A118C485Fc49f1AF417fbf5"
+        },
+        "CheckIn": {
+            "address": "0xB5D03AC860298282D1A3cE1EE60823627b7BE124"
+        },
+        "SwapToken": {
+            "address": ""
+        },
+        "Faucet": {
+            "address": "0x42832807A478B9D4356A18c6421af6B478262f8E"
+        },
+        "CRFarm": {
+            "address": "0xd8d0bdAdC95C76477c88580Fc482fF89B77067fe"
+        },
+        "SeasonHelper": {
+            "address": "0xC8D8854bC46Ba9d74A10f5692653eE0D41BD6eeA"
+        },
+        "RewarderHelper": [
+            {"pve": "0xD5f7C9d2445406dBcf32b899c6e239390289B27c"},
+            {"boss": "0x148EA6C72903C2bE2553d845fe693FeAe18d572b"}
+        ],
+        "GeneralRewarder": [
+            {"pve":"0x754d5Eb369454A06c89820F0E67BDebe53DDB6Eb"},
+            {"boss":"0x01C1aa8727618C758F7BBC2E0520Ee2c7d9dab80"}
+        ],
+        "Multicall3": {
+            "address": "0xa8fAD960aCf062715e1fd3DBD0ee319B2d753b23"
+        },
+        "HeroEdition2": {
+            "address": ""
+        },
+        "Restaking": {
+            "address": ""
+        },
+        "Tokens": {
+            "WETH": {
+                "address": ""
+            },
+            "wstETH": {
+                "address": ""
+            },
+            "weETH": {
+                "address": ""
+            },
+            "ezETH": {
+                "address": ""
+            },
+            "STONE": {
+                "address": ""
             }
         }
     }
