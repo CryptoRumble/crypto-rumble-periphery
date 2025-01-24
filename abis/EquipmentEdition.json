@@ -32,6 +32,11 @@
     "type": "error"
   },
   {
+    "inputs": [],
+    "name": "AlreadyUnboxed",
+    "type": "error"
+  },
+  {
     "inputs": [
       {
         "internalType": "address",
@@ -49,6 +54,11 @@
   },
   {
     "inputs": [],
+    "name": "EditionMismatched",
+    "type": "error"
+  },
+  {
+    "inputs": [],
     "name": "FailedInnerCall",
     "type": "error"
   },
@@ -59,7 +69,22 @@
   },
   {
     "inputs": [],
+    "name": "InvalidOwner",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "InvalidProb",
+    "type": "error"
+  },
+  {
+    "inputs": [],
     "name": "NotInitializing",
+    "type": "error"
+  },
+  {
+    "inputs": [],
+    "name": "ReentrancyGuardReentrantCall",
     "type": "error"
   },
   {
@@ -207,33 +232,7 @@
   },
   {
     "inputs": [],
-    "name": "currentSeason",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [],
-    "name": "currentSeasonEnd",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [],
-    "name": "getMaxSeasonIndex",
+    "name": "getMintFee",
     "outputs": [
       {
         "internalType": "uint256",
@@ -258,84 +257,6 @@
         "internalType": "bytes32",
         "name": "",
         "type": "bytes32"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [],
-    "name": "getSeason",
-    "outputs": [
-      {
-        "components": [
-          {
-            "internalType": "uint256",
-            "name": "startAfter",
-            "type": "uint256"
-          },
-          {
-            "internalType": "uint256",
-            "name": "period",
-            "type": "uint256"
-          },
-          {
-            "internalType": "uint256",
-            "name": "seasonOffset",
-            "type": "uint256"
-          }
-        ],
-        "internalType": "struct ISeasonHelper.Season",
-        "name": "",
-        "type": "tuple"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [
-      {
-        "internalType": "uint256",
-        "name": "ts",
-        "type": "uint256"
-      }
-    ],
-    "name": "getSeasonPeriod",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "start",
-        "type": "uint256"
-      },
-      {
-        "internalType": "uint256",
-        "name": "period",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [
-      {
-        "internalType": "uint256",
-        "name": "ss",
-        "type": "uint256"
-      }
-    ],
-    "name": "getSeasonPeriodBySeason",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "start",
-        "type": "uint256"
-      },
-      {
-        "internalType": "uint256",
-        "name": "period",
-        "type": "uint256"
       }
     ],
     "stateMutability": "view",
@@ -397,7 +318,13 @@
     "type": "function"
   },
   {
-    "inputs": [],
+    "inputs": [
+      {
+        "internalType": "contract IEquipment",
+        "name": "equipment",
+        "type": "address"
+      }
+    ],
     "name": "initialize",
     "outputs": [],
     "stateMutability": "nonpayable",
@@ -407,19 +334,13 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "ss",
+        "name": "count",
         "type": "uint256"
       }
     ],
-    "name": "isSeasonValid",
-    "outputs": [
-      {
-        "internalType": "bool",
-        "name": "seasonExist",
-        "type": "bool"
-      }
-    ],
-    "stateMutability": "view",
+    "name": "mint",
+    "outputs": [],
+    "stateMutability": "payable",
     "type": "function"
   },
   {
@@ -475,76 +396,11 @@
     "inputs": [
       {
         "internalType": "uint256",
-        "name": "timestamp",
+        "name": "fee",
         "type": "uint256"
       }
     ],
-    "name": "season",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [
-      {
-        "internalType": "uint256",
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "name": "seasons",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "startAfter",
-        "type": "uint256"
-      },
-      {
-        "internalType": "uint256",
-        "name": "period",
-        "type": "uint256"
-      },
-      {
-        "internalType": "uint256",
-        "name": "seasonOffset",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
-    "type": "function"
-  },
-  {
-    "inputs": [
-      {
-        "components": [
-          {
-            "internalType": "uint256",
-            "name": "startAfter",
-            "type": "uint256"
-          },
-          {
-            "internalType": "uint256",
-            "name": "period",
-            "type": "uint256"
-          },
-          {
-            "internalType": "uint256",
-            "name": "seasonOffset",
-            "type": "uint256"
-          }
-        ],
-        "internalType": "struct ISeasonHelper.Season",
-        "name": "s",
-        "type": "tuple"
-      }
-    ],
-    "name": "setSeason",
+    "name": "setMintFee",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
@@ -571,34 +427,12 @@
   {
     "inputs": [
       {
-        "internalType": "uint256",
-        "name": "index",
-        "type": "uint256"
-      },
-      {
-        "components": [
-          {
-            "internalType": "uint256",
-            "name": "startAfter",
-            "type": "uint256"
-          },
-          {
-            "internalType": "uint256",
-            "name": "period",
-            "type": "uint256"
-          },
-          {
-            "internalType": "uint256",
-            "name": "seasonOffset",
-            "type": "uint256"
-          }
-        ],
-        "internalType": "struct ISeasonHelper.Season",
-        "name": "s",
-        "type": "tuple"
+        "internalType": "uint256[]",
+        "name": "ids",
+        "type": "uint256[]"
       }
     ],
-    "name": "updateSeason",
+    "name": "unbox",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
@@ -619,19 +453,6 @@
     "name": "upgradeToAndCall",
     "outputs": [],
     "stateMutability": "payable",
-    "type": "function"
-  },
-  {
-    "inputs": [],
-    "name": "version",
-    "outputs": [
-      {
-        "internalType": "uint256",
-        "name": "",
-        "type": "uint256"
-      }
-    ],
-    "stateMutability": "view",
     "type": "function"
   }
 ]
