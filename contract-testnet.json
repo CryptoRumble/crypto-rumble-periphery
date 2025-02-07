@@ -1,60 +1,60 @@
 {
     "59141": {
         "CryptoRumble": {
-            "address": "0x2BE2DD64cC6650212c5Bbb438cfc78d1534b52BF",
-            "tx": "0xd928db03c5a8f3c3ea3e6505ccc279415172e3f8bd6ef4eb57a00fb5cdeb7ee0",
-            "blockNumber": 8603965
+            "address": "0x9C43DF8555e5429919BE8fc2DE7B9740F81E70e4",
+            "tx": "0x80877ac3ce9b02330fa69298b92415bc0ec3524f028aac3fc8fed15b174db49b",
+            "blockNumber": 9056079
         },
         "Equipment": {
-            "address": "0x43Deb8305D0D857519F91867156f9ed359d851c8"
+            "address": "0x83d0Bbec8D155ADf78EF82F9Ba19b5323C9ef633"
         },
         "EquipmentEdition": {
-            "address": "0x4da92C026Dd5EE57BFf9feBD934E4b27E6BB80E6"
+            "address": "0x2E0dd26840DD80F55DF256fd7572625267737EF1"
         },
         "Hero": {
-            "address": "0xa0b7ea5058523033Bc848FeAAD5F51bc6DF08f7A"
+            "address": "0xC9A6eb9477a65c2219682DB18788f4a5804683F0"
         },
         "HeroEdition": {
-            "address": "0xc5D41a50d2318441A870D6ab454558ff1e48fB5A"
+            "address": "0x3B25e0c897ed36dDfCEe260cC5632224cdb99C89"
         },
         "HeroPresale": {
-            "address": "0x47d9F769189272DaA5Ff25dc2986D7D177885cCc"
+            "address": "0x91c4Fa2Afdc9aC43e4d69133Ca76B3AD8B6F0FfF"
         },
         "Level": {
-            "address": "0xaA044DbD89265208C15D49e82655c046eFA3B0e6"
+            "address": "0x6583D5c6008F5743E6143D3fd7ADe96D7E47dB5F"
         },
         "LevelUpHelper": {
-            "address": "0x145B316610b7e5d911D32C5A74C93Aa85676D554"
+            "address": "0x8Baae96b07eC3ca56c3F9BCC945B49a54570296C"
         },
         "API": {
-            "address": "0xC9C4E56029738D10234974d85f196EdA7cA090a9"
+            "address": "0x1cE559517001291cE71afEceCD3Ec802904714d2"
         },
         "GP": {
             "address": "0x0000000000000000000000000000000000000000"
         },
         "GOLD": {
-            "address": "0x5D16F40316E84c2dBdBda5A02f215bA5Da14d6d0"
+            "address": "0xc747A3B7e83A18d115838e6E2bFb99C4282e8038"
         },
         "DIAM": {
-            "address": "0xb253f6c74cf12dCB4325c3A1863276b2F316153E"
+            "address": "0xb1287d0Ab3573ADfFE5782Cc5f85eD98ad57e11a"
         },
         "POINTS": {
-            "address": "0xac974f59a026E1e01E91F1C760eb19e8dCF987aC"
+            "address": "0x63384367B1a69dDd2010887E052E2F933d697943"
         },
         "CheckIn": {
-            "address": "0x501E7862ac41776ecc8a62f05ff07674777C277B"
+            "address": "0xd440d13869e0794AE9cAd805817Bd11D8Ed415F7"
         },
         "CRFarm": {
-            "address": "0x77977acd75cD7A90BC01740eEA75DfaE334aFfE9"
+            "address": "0x8Ed8C07D51F0d6a0D050F8B05D5BC134cD937e8A"
         },
         "SeasonHelper": {
-            "address": "0x3d16B8387f1f0960C69b54F73C9862620A59820A"
-        },
-        "RewarderHelper": {
-            "address": "0x1DE781F6ce9020b9515946d19582AcE9DAf16477"
+            "address": "0xe07A518A073772Ed89111DB692663dde22eA673A"
         },
         "GeneralRewarder": {
-            "address": "0xea3b863142a23463FA92C8233954F783D56505e4"
+            "address": "0x14bc01C3218927C78aa36a4f5Fa966bb92e08544"
+        },
+        "RewarderHelper": {
+            "address": "0x6660b2BD766a7D80ce8C027904064ADe20Af03a3"
         },
         "Multicall3": {
             "address": "0x321fEDA31DC64b5BB2EA21964779FEB97a7636f8"
