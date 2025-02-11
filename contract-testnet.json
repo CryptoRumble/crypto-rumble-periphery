@@ -47,6 +47,9 @@
         "CRFarm": {
             "address": "0x4e5C54db8f45f82aCc0bb42c1631EeE5bB9BD03c"
         },
+        "CRStake": {
+            "address": "0x1bEE468C3d2f35260313A8ab4f47e58D11bc20B8"
+        },
         "SeasonHelper": {
             "address": "0x80F16fb050EB05AFAab1A1fAcbfb0096a4fF04e4"
         },
