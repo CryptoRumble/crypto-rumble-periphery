@@ -41,6 +41,9 @@
         "POINTS": {
             "address": "0x791230C4bb181cC07547c48553A10f3CBB8fc3c8"
         },
+        "PASSPORT": {
+            "address": "0x8E8389CfF3251335c47Ac67b9A1a50FB09792C51"
+        },
         "CheckIn": {
             "address": "0x6f00725Ffcb3a0aA99b96F60df2c575523476EBe"
         },
