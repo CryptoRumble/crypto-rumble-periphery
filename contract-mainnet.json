@@ -91,5 +91,72 @@
                 "address": "0x93F4d0ab6a8B4271f4a28Db399b5E30612D21116"
             }
         }
+    },
+    "9901": {
+        "CryptoRumble": {
+            "address": "0x59C56AA95BBe3534aDACDfFaDc8fAa175c6a7E4A",
+            "tx": "0x2bcb4ddaa57ffb5794a66b546990186b191a960ead4a5a633269c4ac90b80730",
+            "blockNumber": 3109340
+        },
+        "Equipment": {
+            "address": "0x6457ad08E31304D81B8Da38120A39B172482d483"
+        },
+        "EquipmentEdition": {
+            "address": "0xc2cd0B641f16d7FcAB18C7bD9A6b00119070ccEd"
+        },
+        "Hero": {
+            "address": "0x996221142c445810310C260Bd2eF38F0aB1d6a24"
+        },
+        "HeroEdition": {
+            "address": "0x97c49B9E02Fc83Eaa2d44901a21ABd32394792F6"
+        },
+        "HeroPresale": {
+            "address": ""
+        },
+        "Level": {
+            "address": "0xB0D58Ab60d4c9A32010cb687699786c236f9f4c8"
+        },
+        "LevelUpHelper": {
+            "address": "0x065144160C440f0eDBC06A3Aff20c2e67A275D76"
+        },
+        "API": {
+            "address": "0x3E72B57F173a05fD202d88849A79b166f07e94DA"
+        },
+        "GP": {
+            "address": "0x0000000000000000000000000000000000000000"
+        },
+        "GOLD": {
+            "address": "0x3e430DB2d50F061eAE69954A32EC5FE74101cD2c"
+        },
+        "DIAM": {
+            "address": "0x41fa249f264658c593AC1Ab27112b3c103F186Df"
+        },
+        "POINTS": {
+            "address": "0x5d77d2a47625816648482fC6e7e16a3C8DD0c6c9"
+        },
+        "PASSPORT": {
+            "address": ""
+        },
+        "CheckIn": {
+            "address": "0xFB4dC49FFD7ec986743160597F60a335aF88663f"
+        },
+        "CRFarm": {
+            "address": "0x2148EF18BbfF30Fd9EF20Dfaa7219F47a51b5741"
+        },
+        "CRStake": {
+            "address": ""
+        },
+        "SeasonHelper": {
+            "address": "0x6b8a4750dffC11beD02832728e6947FB8334ED26"
+        },
+        "GeneralRewarder": {
+            "address": "0x5948678C7159300D9e056564fB52Dbc2A2e4F1bc"
+        },
+        "RewarderHelper": {
+            "address": "0x83EAB2Dd41316d4dD3b1E06880b523797b5dC9fb"
+        },
+        "Multicall3": {
+            "address": "0xFb2a99dE5cCF96cFf378e1d426977bf1646856Fc"
+        }
     }
 }
